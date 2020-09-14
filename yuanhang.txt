@@ -1,1 +1,2 @@
 My name is Zyhang
+this is 1.0 release changed in release-1.0 branch
