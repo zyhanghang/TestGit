@@ -2,4 +2,4 @@ My name is Yuanhang,
 
 I'm practicing Git
 
-Have a nice day
+Have a nice day!
